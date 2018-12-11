@@ -4,7 +4,7 @@
 
 Internet était né avec des espoirs de décentralisation
 
-Le web a mené une certaine forme de centralisation avec des services comme Google (Search, Drive, Docs, Youtube, Maps, etc.), Facebook (dont Messenger), Instagram, Pinterest, Twitter, Amazon
+Le web a mené une certaine forme de centralisation avec des services comme Google (Search, Drive, Gmail, Docs, Youtube, Maps, etc.), Facebook (dont Messenger), Instagram, Pinterest, Twitter, Amazon
 
 Cette centralisation est poussée par des besoins de rentabilité (qui arrange aussi des besoins politiques de surveillance de masse)
 
